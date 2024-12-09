@@ -14,10 +14,17 @@
         "rating": "8.0"
     },
     {
-        "id": "aksdnf348tqhfjahiu3",
+        "id": "asjdnvasdnfkjw23567",
         "title": "Lucky Bhasker",
         "year": "2024",
         "genre": "Thriller",
         "rating": "8.5"
+    },
+    {
+        "title": "Puss in Boots: last wish",
+        "year": "2023",
+        "genre": "thriller",
+        "rating": "7.0",
+        "id": "bfbc6f9b-0846-450a-9da5-841455fb8a78"
     }
 ]
